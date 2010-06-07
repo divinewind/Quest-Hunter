@@ -1,4 +1,4 @@
-
+.
 == Version 1.4.0 5/5/2010 ==
 
 * Added a configuration system (okay, the excellent configuration from the UI mod QuestHelperConfig)
